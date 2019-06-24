@@ -4,21 +4,21 @@
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">PHP Bootstrap</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  Sleek, intuitive, and powerful front-end framework for faster and easier PHP web development.
   <br>
-  <a href="https://bootstrap.phptraining.com/docs/1.0/"><strong>Explore Bootstrap docs »</strong></a>
+  <a href="https://bootstrap.phptraining.com/docs/1.0/"><strong>Explore PHP Bootstrap docs »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
+  <a href="https://github.com/phptrainingdotcom/phpbootstrap/issues/new?template=bug.md">Report bug</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">Request feature</a>
+  <a href="https://github.com/phptrainingdotcom/phpbootstrap/issues/new?template=feature.md&labels=feature">Request feature</a>
   ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
+  <a href="https://phptraining.com/courses">Free PHP Courses</a>
   ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
+  <a href="https://phptraining.com/blogs">Blog</a>
 </p>
 
 
