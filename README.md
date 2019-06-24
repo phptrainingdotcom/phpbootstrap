@@ -4,12 +4,12 @@
   </a>
 </p>
 
-<h3 align="center">PHP Bootstrap</h3>
+<h3 align="center">PHP MVC Bootstrap</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier PHP web development.
+  Sleek, intuitive, and powerful front-end framework for faster and easier PHP MVC web development.
   <br>
-  <a href="https://bootstrap.phptraining.com/docs/1.0/"><strong>Explore PHP Bootstrap docs »</strong></a>
+  <a href="https://bootstrap.phptraining.com/docs/1.0/"><strong>Explore PHP MVC Bootstrap docs »</strong></a>
   <br>
   <br>
   <a href="https://github.com/phptrainingdotcom/phpbootstrap/issues/new?template=bug.md">Report bug</a>
