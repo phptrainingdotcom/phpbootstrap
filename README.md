@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://bootstrap.phptraining.com/">
-    <img src="https://bootstrap.phptraining.com/docs/1.0/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
+    <img src="https://bootstrap.phptraining.com/docs/1.0/assets/brand/php-training-logo.png" alt="PHPTraining.com logo" width="72" height="72">
   </a>
 </p>
 
